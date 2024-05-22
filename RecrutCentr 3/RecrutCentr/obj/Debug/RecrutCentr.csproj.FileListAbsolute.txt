@@ -1,0 +1,88 @@
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.exe.config
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.exe
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.pdb
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Form1.resources
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Properties.Resources.resources
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.GenerateResource.cache
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.CoreCompileInputs.cache
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.exe
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.pdb
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.exe.config
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.exe
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.pdb
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.AssemblyReference.cache
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Form1.resources
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Properties.Resources.resources
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.GenerateResource.cache
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.CoreCompileInputs.cache
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.exe
+E:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.pdb
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.exe.config
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.exe
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\bin\Debug\RecrutCentr.pdb
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.AssemblyReference.cache
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.CandidateRegister.resources
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Form1.resources
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Properties.Resources.resources
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.GenerateResource.cache
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csproj.CoreCompileInputs.cache
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.exe
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.pdb
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.RegComany.resources
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.LoginForm.resources
+F:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Profile.resources
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.csprojAssemblyReference.cache
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.CandidateRegister.resources
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.LoginForm.resources
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.Profile.resources
+D:\Практика Рекрут Центр\RecrutCentr\RecrutCentr\obj\Debug\RecrutCentr.RegComany.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\bin\Debug\RecrutCentr.exe.config
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\bin\Debug\RecrutCentr.exe
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\bin\Debug\RecrutCentr.pdb
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.csprojAssemblyReference.cache
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.CandidateRegister.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.Form1.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.LoginForm.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.Profile.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.Properties.Resources.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.RegComany.resources
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.csproj.GenerateResource.cache
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.csproj.CoreCompileInputs.cache
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.exe
+D:\Практика Рекрут Центр\RecrutCentr — копия\RecrutCentr\obj\Debug\RecrutCentr.pdb
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\bin\Debug\RecrutCentr.exe.config
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\bin\Debug\RecrutCentr.exe
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\bin\Debug\RecrutCentr.pdb
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.CandidateRegister.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.Form1.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.LoginForm.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.Profile.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.Properties.Resources.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.RegComany.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.csproj.GenerateResource.cache
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.csproj.CoreCompileInputs.cache
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.exe
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.pdb
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\bin\Debug\RecrutCentr.exe.config
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\bin\Debug\RecrutCentr.exe
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.csproj.AssemblyReference.cache
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.CandidateRegister.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.Form1.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.LoginForm.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.Profile.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.Properties.Resources.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.RegComany.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.csproj.GenerateResource.cache
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.csproj.CoreCompileInputs.cache
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.exe
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.pdb
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\bin\Debug\RecrutCentr.pdb
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.WorkerResume.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.WorkerResume.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.ResumeW.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.CompanyResume.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.csproj.AssemblyReference.cache
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.CompanyResume.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.ResumeW.resources
+F:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.ViewVacs.resources
+D:\Практика Рекрут Центр\RecrutCentr 3\RecrutCentr\obj\Debug\RecrutCentr.ViewVacs.resources
